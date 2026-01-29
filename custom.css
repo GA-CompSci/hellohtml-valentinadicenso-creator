@@ -1,0 +1,30 @@
+header {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.etsystatic.com%2F21939332%2Fr%2Fil%2F37d94d%2F2303521652%2Fil_fullxfull.2303521652_dizh.jpg&f=1&nofb=1&ipt=20f16daf9e3749ff395c053f10363e99e5ab91aa5891f1adee72181388f74c27");
+    background-position: center center;
+    background-size: cover;
+}
+
+#hero-text {
+    color: rgb(170, 184, 206) !important;
+    font-size: 72px;
+    text-shadow: 2px 2px 5px black;
+}
+
+header p {
+    color: rgb(230, 228, 225);
+    font-size: 24px;
+    font-weight: 900 !important;
+    text-shadow: 1px 1px 2px black;
+}
+
+header .btn {
+    background-color: black;
+    border-color: white;
+    color: white;
+}
+
+header .btn:hover {
+    background-color: black;
+    border-color: white;
+    color: aliceblue;
+}
